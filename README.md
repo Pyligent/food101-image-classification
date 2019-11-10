@@ -2,13 +2,15 @@
 
 ![img](https://www.vision.ee.ethz.ch/datasets_extra/food-101/static/img/food-101.jpg)
 
-### Summary
+### Results Summary
 
 - **Model** : **ResNet50**
 - **Training Epochs** : **16**
 - **Random Transform with TTA**
 - `top_1_accuracy:`  **89.63%**      
   `top_5_accuracy:`  **98.04%**
+  
+### 0. Overview
 
 ### Problem background
 - The recent advent of deep learning technologies has achieved successes incomputer vision areas. But the status quo of computer vision and pattern recognition is still far from matching human capabilities, especially when it comes to classifying an image whose intra-category appearance might present more differences than its intercategory counterparts. 
