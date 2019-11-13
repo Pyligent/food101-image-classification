@@ -69,11 +69,11 @@
     
 #### 2.1 Explore the Data set images
 
-- Exploring and showing the images are important for the image classfication problems.This part will show the image from the three ways:
+- Exploring and showing the images are important for the image classfication problems.This part will show the image from  three ways:
     - show images from the Databunch
     - show images from the same class /w Data Augmentation
         - define the functions `show_class_images` and `show_class_images_with_tfms`
-    - show single /w Data Augmentation 
+    - show single image /w Data Augmentation 
         - define the functions `show_img_augmentation`
         
 ### 3. Data Augmentation
