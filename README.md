@@ -1,4 +1,4 @@
-## Food 101 Image Classification Challenge Problem
+## Food 101 Image Classification SoTA Benchmark Challenge Problem
 
 ![img](https://www.vision.ee.ethz.ch/datasets_extra/food-101/static/img/food-101.jpg)
 
