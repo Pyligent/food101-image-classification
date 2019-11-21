@@ -66,8 +66,8 @@
     - Add the split the data into a training and validation sets?
     - Add the label the inputs?
     - Add data augment transforms
-    - add the test set?
-    - Wrap in dataloaders and create the DataBunch?
+    - add the test set
+    - Wrap in dataloaders and create the DataBunch
     
 #### 2.1 Explore the Data set images
 
