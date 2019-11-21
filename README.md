@@ -10,6 +10,8 @@
 - `top_1_accuracy:`  **89.63%**      
   `top_5_accuracy:`  **98.04%**
   
+- **SoTA WISeR :  90.27% / 98.71%  (Top 1/Top 5)**
+  
 ### 0. Overview
 
 ### Problem background
